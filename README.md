@@ -1,8 +1,6 @@
-**Inswift Zigbee 3.0 PoE Ethernet USB Adapter's Firmware**
+**Lincukoo Zigbee 3.0 USB Adapter's Firmware**
 
 **Zigbee over LAN,USB,WiFI is supported.**
-<img width="2554" height="1364" alt="4" src="https://github.com/user-attachments/assets/b8ed13d2-7e4d-4bda-bda7-46fcc696703a" />
-
 **1.SOC INFO** 
 
 used ESP32 + TI CC2652P/P7 or Silicon Labs MG21/24
@@ -24,19 +22,8 @@ It has the same processor as the CC2652P (48MHz Cortex-M4), but the RAM is incre
 
 **EFR32MG24：**
 78MHz Cortex-M33 processor + 256KB RAM, boasting the strongest performance. It supports AI/ML acceleration and multiple protocols (Matter/Thread), with -105.4dBm sensitivity and 19.5dBm transmit power. It delivers optimal signal coverage and anti-interference capability, and supports hardware encryption (Secure Vault) and multiple peripherals, making it suitable for enterprise-level or complex IoT applications.
-<img width="773" height="535" alt="image" src="https://github.com/user-attachments/assets/7df2ee49-3107-4df1-b24a-7d636fb26d1d" />
 
-**2.LED status**
 
-BLUE - Working Mode zigbee usb status
-
-GREEN - Working Mode zigbee network status
-
-RED - Network link status
-
-Cyan solid ：The device is starting up
-
-Blue solid : USB to ZigBee mode
 
 Blue blinking : Zigbee firmware is being updated
 
